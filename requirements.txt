@@ -1,0 +1,6 @@
+# Project T Weather App - Requirements
+# This project is built using HTML, CSS, and JavaScript only.
+# No Python packages are required.
+
+# External API dependency:
+# OpenWeather API (https://openweathermap.org/api)
